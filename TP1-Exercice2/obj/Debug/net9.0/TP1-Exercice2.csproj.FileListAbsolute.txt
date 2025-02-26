@@ -1,0 +1,15 @@
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\bin\Debug\net9.0\TP1-Exercice2.exe
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\bin\Debug\net9.0\TP1-Exercice2.deps.json
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\bin\Debug\net9.0\TP1-Exercice2.runtimeconfig.json
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\bin\Debug\net9.0\TP1-Exercice2.dll
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\bin\Debug\net9.0\TP1-Exercice2.pdb
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.sourcelink.json
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.dll
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\refint\TP1-Exercice2.dll
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.pdb
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\TP1-Exercice2.genruntimeconfig.cache
+C:\Users\imade\RiderProjects\solution\TP1-Exercice2\obj\Debug\net9.0\ref\TP1-Exercice2.dll
