@@ -1,0 +1,14 @@
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\bin\Debug\net9.0\TP 1-Exerice1.exe
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\bin\Debug\net9.0\TP 1-Exerice1.deps.json
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\bin\Debug\net9.0\TP 1-Exerice1.runtimeconfig.json
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\bin\Debug\net9.0\TP 1-Exerice1.dll
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\bin\Debug\net9.0\TP 1-Exerice1.pdb
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.dll
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\refint\TP 1-Exerice1.dll
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.pdb
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\TP 1-Exerice1.genruntimeconfig.cache
+C:\Users\imade\RiderProjects\solution\TP 1-Exerice1\obj\Debug\net9.0\ref\TP 1-Exerice1.dll
