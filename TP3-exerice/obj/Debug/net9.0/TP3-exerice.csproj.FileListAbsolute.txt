@@ -1,0 +1,15 @@
+C:\Users\imade\RiderProjects\solution\TP3-exerice\bin\Debug\net9.0\TP3-exerice.exe
+C:\Users\imade\RiderProjects\solution\TP3-exerice\bin\Debug\net9.0\TP3-exerice.deps.json
+C:\Users\imade\RiderProjects\solution\TP3-exerice\bin\Debug\net9.0\TP3-exerice.runtimeconfig.json
+C:\Users\imade\RiderProjects\solution\TP3-exerice\bin\Debug\net9.0\TP3-exerice.dll
+C:\Users\imade\RiderProjects\solution\TP3-exerice\bin\Debug\net9.0\TP3-exerice.pdb
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.sourcelink.json
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.dll
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\refint\TP3-exerice.dll
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.pdb
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\TP3-exerice.genruntimeconfig.cache
+C:\Users\imade\RiderProjects\solution\TP3-exerice\obj\Debug\net9.0\ref\TP3-exerice.dll
