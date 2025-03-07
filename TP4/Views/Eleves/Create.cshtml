@@ -1,0 +1,35 @@
+﻿// Views/Eleves/Create.cshtml
+@model AbsenceManagement.Models.Eleve
+
+@{
+    ViewData["Title"] = "Ajouter un élève";
+}
+
+<h1>Ajouter un élève</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div class="form-group mb-3">
+                <label for="ID" class="form-label">ID</label>
+                <input asp-for="ID" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Nom" class="form-label">Nom</label>
+                <input asp-for="Nom" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Prenom" class="form-label">Prénom</label>
+                <input asp-for="Prenom" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Groupe" class="form-label">Groupe</label>
+                <input asp-for="Groupe" class="form-control" />
+            </div>
+            <div class="form-group mt-4">
+                <button type="submit" class="btn btn-primary">Ajouter</button>
+                <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<AbsenceManagement.Models.Eleve>
+
+@{
+    ViewData["Title"] = "Gestion des Élèves";
+}
+
+<h1>Gestion des Élèves</h1>
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <form asp-action="Search" method="get">
+            <div class="input-group">
+                <input type="text" name="searchString" class="form-control" placeholder="Rechercher un élève...">
+                <button type="submit" class="btn btn-primary">Rechercher</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6 text-end">
+        <a asp-action="Create" class="btn btn-success">Ajouter un nouvel élève</a>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nom</th>
+        <th>Prénom</th>
+        <th>Groupe</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Nom</td>
+            <td>@item.Prenom</td>
+            <td>@item.Groupe</td>
+            <td>
+                <div class="btn-group">
+                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-primary">Modifier</a>
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger">Supprimer</a>
+                    <a asp-controller="Absences" asp-action="Statistics" asp-route-eleveId="@item.ID" class="btn btn-sm btn-info">Absences</a>
+                </div>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<div class="text-end mt-3">
+    <a asp-controller="Absences" asp-action="Index" class="btn btn-primary">Gestion des absences</a>
+</div>

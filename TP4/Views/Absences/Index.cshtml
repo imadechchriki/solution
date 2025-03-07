@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AbsenceManagement.Models.Absence>
+
+@{
+    ViewData["Title"] = "Gestion des Absences";
+}
+
+<h1>Gestion des Absences</h1>
+
+<div class="row mb-3">
+    <div class="col text-end">
+        <a asp-action="Create" class="btn btn-success">Ajouter une absence</a>
+        <a asp-controller="Eleves" asp-action="Index" class="btn btn-primary">Gestion des élèves</a>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Élève</th>
+        <th>Semaine</th>
+        <th>Nombre d'absences</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Eleve.Prenom @item.Eleve.Nom</td>
+            <td>@item.Semaine</td>
+            <td>@item.NbrAbsences</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<div class="text-end mt-3">
+    <a asp-action="Statistics" class="btn btn-info">Statistiques des absences</a>
+</div>

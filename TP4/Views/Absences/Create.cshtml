@@ -1,0 +1,34 @@
+﻿@model AbsenceManagement.Models.Absence
+
+@{
+    ViewData["Title"] = "Enregistrer une absence";
+}
+
+<h1>Enregistrer une absence</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div class="form-group mb-3">
+                <label for="ID" class="form-label">ID</label>
+                <input asp-for="ID" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="EleveID" class="form-label">Élève</label>
+                <select asp-for="EleveID" class="form-select" asp-items="ViewBag.EleveID"></select>
+            </div>
+            <div class="form-group mb-3">
+                <label for="NbrAbsences" class="form-label">Nombre d'absences</label>
+                <input asp-for="NbrAbsences" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Semaine" class="form-label">Semaine</label>
+                <select asp-for="Semaine" class="form-select" asp-items="ViewBag.Semaines"></select>
+            </div>
+            <div class="form-group mt-4">
+                <button type="submit" class="btn btn-primary">Enregistrer</button>
+                <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+            </div>
+        </form>
+    </div>
+</div>

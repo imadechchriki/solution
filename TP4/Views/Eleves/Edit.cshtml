@@ -1,0 +1,31 @@
+﻿@model AbsenceManagement.Models.Eleve
+
+@{
+    ViewData["Title"] = "Modifier un élève";
+}
+
+<h1>Modifier un élève</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="ID" />
+            <div class="form-group mb-3">
+                <label for="Nom" class="form-label">Nom</label>
+                <input asp-for="Nom" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Prenom" class="form-label">Prénom</label>
+                <input asp-for="Prenom" class="form-control" />
+            </div>
+            <div class="form-group mb-3">
+                <label for="Groupe" class="form-label">Groupe</label>
+                <input asp-for="Groupe" class="form-control" />
+            </div>
+            <div class="form-group mt-4">
+                <button type="submit" class="btn btn-primary">Enregistrer</button>
+                <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+            </div>
+        </form>
+    </div>
+</div>

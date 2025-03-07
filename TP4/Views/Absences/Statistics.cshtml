@@ -1,0 +1,100 @@
+﻿@model AbsenceManagement.ViewModels.StatisticsViewModel
+
+@{
+    ViewData["Title"] = "Statistiques d'absences";
+}
+
+<h1>Statistiques d'absences</h1>
+
+<div class="row mb-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Absences par élève
+            </div>
+            <div class="card-body">
+                <form asp-action="Statistics" method="get">
+                    <div class="form-group mb-3">
+                        <label for="eleveId" class="form-label">Sélectionner un élève</label>
+                        <select name="eleveId" class="form-select" asp-items="ViewBag.Eleves"></select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Afficher</button>
+                </form>
+                
+                @if (!string.IsNullOrEmpty(Model.EleveNom))
+                {
+                    <hr />
+                    <h5>Absences de @Model.EleveNom</h5>
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>Semaine</th>
+                                <th>Nombre d'absences</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var absence in Model.AbsencesParSemaine)
+                            {
+                                <tr>
+                                    <td>@absence.Semaine</td>
+                                    <td>@absence.NbrAbsences</td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Total</th>
+                                <th>@Model.TotalAbsences</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Absences par semaine
+            </div>
+            <div class="card-body">
+                <form asp-action="Statistics" method="get">
+                    <div class="form-group mb-3">
+                        <label for="semaine" class="form-label">Sélectionner une semaine</label>
+                        <select name="semaine" class="form-select" asp-items="ViewBag.Semaines"></select>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Afficher</button>
+                </form>
+                
+                @if (Model.Semaine > 0)
+                {
+                    <hr />
+                    <h5>Absences de la semaine @Model.Semaine</h5>
+                    <table class="table table-sm">
+                        <thead>
+                            <tr>
+                                <th>Élève</th>
+                                <th>Nombre d'absences</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var absence in Model.AbsencesEnSemaine)
+                            {
+                                <tr>
+                                    <td>@absence.Eleve.Prenom @absence.Eleve.Nom</td>
+                                    <td>@absence.NbrAbsences</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-end">
+    <a asp-controller="Absences" asp-action="Index" class="btn btn-primary">Retour aux absences</a>
+    <a asp-controller="Eleves" asp-action="Index" class="btn btn-secondary">Retour aux élèves</a>
+</div>
