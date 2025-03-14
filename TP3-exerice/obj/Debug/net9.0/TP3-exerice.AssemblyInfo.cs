@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP3-exerice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1220300fde4cb5488d7e06b8f9de315d8056fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9619dcbb8ff51743db62b36ba515e1bb4ec42125")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP3-exerice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP3-exerice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

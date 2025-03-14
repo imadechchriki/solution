@@ -1,20 +1,12 @@
 {
   "Version": 1,
-  "Hash": "x1VikP/tfJS8/alwB99LFTPV4kFH/ZOQ1rUApYv4SHA=",
+  "Hash": "eHn8CDMWxx1tYooSxNXuTABmfVOJeFRYXu/qjPYXwjs=",
   "Source": "MyAspNetCoreApp",
   "BasePath": "_content/MyAspNetCoreApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "MyAspNetCoreApp\\wwwroot",
-      "Source": "MyAspNetCoreApp",
-      "ContentRoot": "C:\\Users\\imade\\RiderProjects\\solution\\TP4\\wwwroot\\",
-      "BasePath": "_content/MyAspNetCoreApp",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": [],
   "Endpoints": []
 }

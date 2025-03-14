@@ -1,10 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using AbsenceManagement.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.SqlServer; // Cette ligne peut être nécessaire
-using AbsenceManagement.Data;
-
-
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,10 +15,13 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
+    // Supprimez cette ligne pour désactiver HTTPS
+    // app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+// Supprimez ou commentez cette ligne pour désactiver la redirection HTTPS
+// app.UseHttpsRedirection();
+
 app.UseStaticFiles();
 
 app.UseRouting();

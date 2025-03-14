@@ -1,0 +1,56 @@
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.exe
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.deps.json
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.runtimeconfig.json
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.pdb
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.AssemblyReference.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.Form1.resources
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.GenerateResource.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfoInputs.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfo.cs
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.CoreCompileInputs.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_.EFF4E967.Up2Date
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\refint\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.pdb
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.genruntimeconfig.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\ref\Gestion_Ecole.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.exe
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.deps.json
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.runtimeconfig.json
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.pdb
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.Form1.resources
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfo.cs
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_.EFF4E967.Up2Date
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\refint\Gestion_Ecole.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.pdb
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.genruntimeconfig.cache
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\ref\Gestion_Ecole.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Downloads\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Npgsql.dll

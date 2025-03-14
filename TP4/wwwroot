@@ -1,6 +1,0 @@
-﻿var builder = WebApplication.CreateBuilder(args);
-
-// Configurer les ports explicitement
-builder.WebHost.UseUrls("http://localhost:5000", "https://localhost:5001");
-
-// ... le reste de votre configuration
