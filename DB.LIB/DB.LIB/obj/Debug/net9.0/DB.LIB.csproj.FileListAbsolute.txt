@@ -1,0 +1,12 @@
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\bin\Debug\net9.0\DB.LIB.deps.json
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\bin\Debug\net9.0\DB.LIB.dll
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\bin\Debug\net9.0\DB.LIB.pdb
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.csproj.AssemblyReference.cache
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.dll
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\refint\DB.LIB.dll
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\DB.LIB.pdb
+C:\Users\imade\RiderProjects\DB.LIB\DB.LIB\obj\Debug\net9.0\ref\DB.LIB.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB.LIB", "DB.LIB\DB.LIB.csproj", "{0D0ACA91-5E8A-4654-A13A-41442C5E0D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEleves", "GestionEleves\GestionEleves.csproj", "{50FA7785-B771-4754-A934-88087BB0CC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0ACA91-5E8A-4654-A13A-41442C5E0D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0ACA91-5E8A-4654-A13A-41442C5E0D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0ACA91-5E8A-4654-A13A-41442C5E0D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0ACA91-5E8A-4654-A13A-41442C5E0D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FA7785-B771-4754-A934-88087BB0CC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FA7785-B771-4754-A934-88087BB0CC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FA7785-B771-4754-A934-88087BB0CC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FA7785-B771-4754-A934-88087BB0CC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

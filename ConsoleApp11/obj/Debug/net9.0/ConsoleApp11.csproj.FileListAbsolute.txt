@@ -1,0 +1,15 @@
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.exe
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.deps.json
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.runtimeconfig.json
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.dll
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.pdb
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.sourcelink.json
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.dll
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\refint\ConsoleApp11.dll
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.pdb
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\imade\RiderProjects\solution\ConsoleApp11\obj\Debug\net9.0\ref\ConsoleApp11.dll
