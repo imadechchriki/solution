@@ -1,0 +1,15 @@
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\bin\Debug\net9.0\Consoleapprentissage2.exe
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\bin\Debug\net9.0\Consoleapprentissage2.deps.json
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\bin\Debug\net9.0\Consoleapprentissage2.runtimeconfig.json
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\bin\Debug\net9.0\Consoleapprentissage2.dll
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\bin\Debug\net9.0\Consoleapprentissage2.pdb
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.AssemblyInfoInputs.cache
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.AssemblyInfo.cs
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.csproj.CoreCompileInputs.cache
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.sourcelink.json
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.dll
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\refint\Consoleapprentissage2.dll
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.pdb
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\Consoleapprentissage2.genruntimeconfig.cache
+C:\Users\imade\RiderProjects\solution\Consoleapprentissage2\obj\Debug\net9.0\ref\Consoleapprentissage2.dll
